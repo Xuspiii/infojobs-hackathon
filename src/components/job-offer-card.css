@@ -1,0 +1,114 @@
+.job-offer-card {
+    background-color: #fff;
+    padding: 1rem;
+    border-radius: 0.5rem;
+}
+
+.job-offer-title {
+    font-size: 1rem;
+    color: var(title-color);
+    margin-bottom: 0.5rem;
+    cursor: pointer;
+}
+
+.job-offer-title:hover {
+    color: #21698c;
+}
+
+.job-offer-description {
+    font-size: 0.8rem;
+    color: var(text-color);
+}
+
+.job-offer-description--unexpanded {
+    margin: 1rem 0;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.job-offer-description--expanded {
+    margin-bottom: 1rem;
+}
+
+.job-offer-info-container {
+    color: var(--text-color);
+    display: flex;
+    align-items: center;
+}
+
+.job-offer-info-container>span {
+    font-size: 0.7rem;
+}
+
+.job-offer-info-container>span+span::before {
+    content: "|";
+    padding: 0 0.7rem;
+}
+
+.job-offer-info-container>div {
+    font-size: 0.7rem;
+}
+
+.job-offer-icon {
+    color: #fff;
+    padding: 0 0.45rem;
+    line-height: 0.9rem;
+    height: 0.9rem;
+    border-radius: 0.1rem;
+    margin-left: 0.7rem;
+}
+
+.job-offer-new-icon {
+
+    background-color: #00a550;
+
+}
+
+.job-offer-test-icon {
+    background-color: #3e15b7;
+}
+
+.job-offer-card>h3,
+.job-offer-card>h4 {
+    font-size: 0.8rem;
+    margin-top: 1rem;
+    margin-bottom: 0.2rem;
+}
+
+.upload-file {
+    background-color: #efefef;
+    height: 6rem;
+    width: 6rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 1rem; 
+    border-radius: 1rem;
+    font-size: 0.8rem;
+    cursor: pointer;
+}
+
+.upload-file:hover {
+    background-color: #dedede;
+    color: #3e15b7;
+}
+
+.upload-icon {
+    width: 2rem;
+}
+
+.prank-message {
+    margin-top: 1rem;
+    font-size: 0.8rem;
+    color: var(--accent-color);
+}
+
+.apply-button {
+    height: 2rem;
+    margin-top: 1rem;
+    padding: 0 1rem;
+}

@@ -1,0 +1,66 @@
+.form-section {
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 2rem 2rem;
+}
+
+.form-title {
+    padding-bottom: 0.4rem;
+    margin: 2rem 0;
+    border-bottom: 1px solid var(--text-color);
+}
+
+.display-block {
+    display: block;
+}
+
+.form-section .input {
+    margin-top: 0.1rem;
+    width: 100%;
+    min-height: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+.form-section .flex {
+    display: flex;
+    gap: 2rem;
+}
+
+.offer-title {
+    width: 100%;
+}
+
+.form-section textarea {
+    min-width: 100%;
+    max-width: 100%;
+    min-height: 5rem;
+    margin-bottom: 1rem;
+}
+
+.checkbox-div {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin-bottom: 1rem;
+}
+
+.checkbox-div>input {
+    margin-bottom: -0.01rem;
+}
+
+.submit-button {
+    padding: 0.7rem 1.4rem;
+}
+
+.form-disclaimer {
+    margin-bottom: 1rem;
+}
+
+.error-disclaimer {
+    color: var(--accent-color);
+}
+
+.submited-message {
+    margin-top: 1rem;
+    color: var(--brand-color);
+}

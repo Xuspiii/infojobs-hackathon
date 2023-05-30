@@ -1,0 +1,16 @@
+.toggle-access {
+    display: flex;
+    gap: 2rem;
+    align-items: center;
+    justify-content: center;
+}
+
+.toggle-access button {
+    padding: 0.4rem 0.5rem;
+    border-radius: 4px;
+}
+
+.role-disclaimer {
+    color: #2d3133;
+    font-weight: 600;
+}

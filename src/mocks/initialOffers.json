@@ -1,0 +1,37 @@
+{
+  "jobOffers": [
+    {
+      "offerId": 1,
+      "offerTitle": "Desarrollador React para el negocio familiar Paco Fontaneros",
+      "vacancyNumber": "2",
+      "offerDescription": "Buscamos un chico joven, guapo, inteligente, atento, cariñoso, de metro ochenta y con 25 años de experiencia para nuestro puesto de junior developer. Salario: 400€/mes y un bocata.",
+      "isTestIncluded": true,
+      "testDescription": "En esta prueba técnica proponemos un ejercicio diferente y novedoso para comprobar la capacidad de adaptación a nuevas situaciones.\n\nUtiliza la API de pokeapi.co para hacer un buscador de Pokémon según su tipo. Esta no te la esperabas, ¿eh? En Paco Fontaneros nos caracterizamos por nuestra gran originalidad."
+    },
+    {
+      "offerId": 2,
+      "offerTitle": "Disfrazarse de Mickey Mouse en la sagrada familia",
+      "vacancyNumber": "1",
+      "offerDescription": "Buscamos una persona sin principios morales que se dedique a cobrarle 10€ por foto a los guiris que se quieran hacer una foto con Mickey Mouse. Importante ser una persona poco calurosa.",
+      "isTestIncluded": false,
+      "testDescription": ""
+    },
+    {
+      "offerId": 3,
+      "offerTitle": "Analista de datos para Global Data Analysis Omega Tinki Winky Plus",
+      "vacancyNumber": "1",
+      "offerDescription": "Eres un apasionado del análisis de datos? Eres un maestro del Big Data? Quieres ser tu propio jefe?\nBuscamos un analista de datos con dos años de experiencia en Python y R. Valorable experiencia en Pandas y TensorFlow.",
+      "isTestIncluded": true,
+      "testDescription": "Descarga este conjunto de datos y haz un análisis. ¿Qué tipo de análisis? Ni idea chaval. Yo solo soy un desarrollador junior, pregúntale a otro."
+    },
+    {
+      "offerId": 4,
+      "offerTitle": "Periodistas sin experiencia con conocimientos de diseño",
+      "vacancyNumber": "1",
+      "offerDescription": "En Periodismo Dismo buscamos un nuevo talento joven. Tu función será corregir y maquetar las noticias para nuestro periódico Dico. Prohibido usar ChatGPT, en lugar de eso vas a usar una máquina de escribir de los años 80, porque somos unos antiguos.",
+      "isTestIncluded": true,
+      "testDescription": "En este link tienes un periódico que no sigue ningún principio de diseño gráfico, y además, tiene muchas faltas de hortografía. De hecho, te duelen los ojos leyéndolo. Lo que tienes que hacer en esta prueba es copiar la noticia, corregir los errores gramaticales y hacer una maquetación de la forma que quieras. Por esta vez te dejo usar Word, pero nada de ChatGPT."
+    }
+  ],
+  "total": 4
+}
